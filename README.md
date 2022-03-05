@@ -1,4 +1,4 @@
-# react-todo-app
+# react-todo-app  
 
 React version of [this](https://codepen.io/dmitrysharabin/pen/MWgQNYZ) project.  
   
